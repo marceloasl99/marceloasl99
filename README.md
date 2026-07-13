@@ -124,7 +124,7 @@ AutoCAD                 SAP S/4HANA               Data visualization
 
 ## OT, Industrial Networking, and Diagnostics
 
-### [Cisco C9200 OT Investigation Collector](https://github.com/marceloasl99/cisco-c9200-ot-investigation)
+### [Cisco C9200 OT Investigation Collector](https://github.com/marceloasl99/cisco-c9200-ot-investigation-collector)
 
 A time-bounded, read-only PowerShell collector for Cisco Catalyst 9200 and IOS-XE investigations in OT networks.
 
